@@ -1,0 +1,13 @@
+body {
+   font-family: 'Times New Roman', 'Calibri', sans-serif
+}
+ul {
+    font-size:24px;
+    text-align:center
+}
+
+.header {
+    font-size:50px;
+    font-weight:900;
+    text-align:center;
+}
